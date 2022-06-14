@@ -1,2 +1,3 @@
-# password-generator
- Aplicación para generar contraseñas, escrita en Python.
+# Password Generator
+
+ Aplicación escrita en Python, para generar contraseñas.
